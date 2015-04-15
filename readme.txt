@@ -25,8 +25,7 @@ Steps
 1. Upload 'biography' folder to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. You can find the "biography" menu in Admin Panel.
-4. Place PHP code '<php echo do_shortcode('[MemberAll]'); >' in your php templates.
-5. Place shortcode '[MemberAll]' in your post(s) or page.
+4. Place shortcode '[MemberAll]' in your post(s) or page.
 
 
 == Frequently Asked Questions ==
