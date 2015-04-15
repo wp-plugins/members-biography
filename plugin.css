@@ -1,0 +1,8 @@
+.list_outer{margin-top: 20px;margin-right: 20px;}
+.thd{border-bottom: 1px #000 solid; }
+.list_outer span{float: right;padding: 10px 20px; background: #ffffff;}
+.list_outer span h3{margin: 0px 0 0px 0;}
+.list_outer span p{margin: 2px 0 8px 0;font-size: 12px;}
+.scces_msg{background:#fff;border-bottom: 2px solid #7ad03a;border-bottom-left-radius: 5px;border-top-right-radius: 5px;display: none;font-weight: bold;min-width: 150px;padding: 7px 10px;width: auto;float: left;}
+.not_insrt{background:#fff;border-bottom: 2px solid #7ad03a;border-bottom-left-radius: 5px;border-top-right-radius: 5px;display: none;font-weight: bold;min-width: 150px;padding: 7px 10px;width: auto;float: left;}
+.wrong_file{background:#fff;border-bottom: 2px solid #7ad03a;border-bottom-left-radius: 5px;border-top-right-radius: 5px;display: none;font-weight: bold;min-width: 150px;padding: 7px 10px;width: auto;float: left;}
