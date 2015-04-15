@@ -3,7 +3,7 @@ Contributors: Tanmoy Dhara
 Tags: biography,image,images,photo,photos,picture,pictures,simple image upload ,image & description ,author details,author
 Requires at least: 3.5
 Tested up to: 4.0
-Stable tag: 1.4
+Stable tag: 1.1
 Donate link: 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
